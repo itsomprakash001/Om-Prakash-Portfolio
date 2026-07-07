@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Om Prakash</a>
+  <a href="https://https://my-portfolio-tan-one-66.vercel.app//" target="_blank">Om Prakash</a>
 </h2>
 
 
