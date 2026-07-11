@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import rental from "../../Images/rental.png"
-import HMS from "../../Images/HMS.png"
+import HMS from "../../Images/EMS.png"
 
 function Projects() {
   return (
