@@ -40,9 +40,9 @@ function Projects() {
             <ProjectCard
               imgPath={HMS}
               isBlog={false}
-              title="Hospital Management System"
-              description="A full-stack hospital management system to manage patients, appointments, staff, authentication, role-based access, and CRUD operations."
-              ghLink="https://github.com/itsomprakash001/Hospital-Management-System-FullStack"
+              title="Employee Management System"
+              description="Employee Management System built with the MERN Stack featuring role-based authentication, employee, department, salary, and leave management."
+              ghLink="https://github.com/itsomprakash001/Employee-Management-System"
               demoLink="#"
             />
           </Col>

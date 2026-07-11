@@ -11,28 +11,31 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Om Prakash </span>
             from <span className="purple"> Bihar, India.</span>
             <br />
-            I am currently persuing Bachelor's Degree from LNCT Group of College.
+            I have completed my Bachelor's degree from Lakshmi Narain College of Technology, Bhopal.
             <br />
             
             <br />
-            Apart from coding, some other activities that I love to do!
-          </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-          </ul>
+            Beyond coding, I enjoy activities that keep me inspired, curious, and continuously learning.
+</p>
+<ul>
+  <li className="about-activity">
+    <ImPointRight /> Reading Books
+  </li>
+  <li className="about-activity">
+    <ImPointRight /> Exploring New Technologies
+  </li>
+  <li className="about-activity">
+    <ImPointRight /> Problem Solving
+  </li>
+  <li className="about-activity">
+    <ImPointRight /> Travelling
+  </li>
+</ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">OmPrakash</footer>
+          <footer className="blockquote-footer">Om Prakash</footer>
         </blockquote>
       </Card.Body>
     </Card>
